@@ -126,6 +126,11 @@
       "name": "linux",
       "description": "CDN for linux",
       "domain_files": ["linux.txt"]
+    },
+    {
+      "name": "tiktok",
+      "description": "CDN for tiktok",
+      "domain_files": ["tiktok.txt"]
     }
   ]
 }

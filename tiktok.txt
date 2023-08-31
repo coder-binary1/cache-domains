@@ -1,1 +1,7 @@
-v16-webapp-prime.tiktok.com
+*.tiktok.com
+*.tiktokcdn.com
+mon.tiktokv.com
+mcs-va.tiktokv.com
+vmweb-va.byteoversea.com
+starling-oversea.byteoversea.com
+mon-va.byteoversea.com

@@ -1,4 +1,0 @@
-mirror.dhakacom.com
-mirror.xeonbd.com
-mirror.limda.net
-archive.ubuntu.com
